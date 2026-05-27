@@ -21,7 +21,7 @@
 </head>
 
 <body>
-  <h1>Diario de lectura💗📚</h1>
+  <h1>Diario de lectura 2026💗📚</h1>
   <ul><li>- [16] Alchemised </li>
 <li>- [15] Rey de la Gula</li>
 <li>- [14] Bratva Menace </li>
