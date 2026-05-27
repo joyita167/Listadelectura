@@ -40,11 +40,11 @@
 <li>- [1] La guerra sin fin </li>
 </ul>
 
-  <button onclick="Actual()">Presiona para saber que estoy leyendo</button>
+  <button onclick="Actual()">Lectura Actual</button>
   
   
 
- <button onclick="Total()">Presiona para saber el Total de libros leidos</button>
+ <button onclick="Total()">Total de libros leidos</button>
 
   <script>
     function Actual() {
