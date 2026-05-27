@@ -15,6 +15,8 @@
     button {
       color: pink;
       margin-bottom: 20px;
+      margin-top: 20px;
+      margin-right: 15px;
       }
       
   </style>
